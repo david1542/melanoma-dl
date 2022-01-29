@@ -1,4 +1,4 @@
-name: base
+name: melanoma-dl
 channels:
   - defaults
 dependencies:
@@ -21,7 +21,6 @@ dependencies:
   - pyopenssl=20.0.1
   - pysocks=1.7.1
   - python=3.9.5
-  - python.app=3
   - readline=8.1
   - requests=2.25.1
   - ruamel_yaml=0.15.100
